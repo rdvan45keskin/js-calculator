@@ -8,4 +8,4 @@ Toplama, çıkarma, çarpma ve bölme işlemleri yapabilmektedir.
 2. `index.html` dosyasını tarayıcıda açın  
 
 ## 📸 Görsel
-![Calculator Screenshot](calculator.png)
+![Calculator Screenshot](Calculator.png)
